@@ -17,7 +17,7 @@ if (process.env.NODE_ENV === 'development') {
 } else {
   config.backend = {
     "name": "github",
-    "repo": "ADARTA/gatsby-starter-netlify-cms",
+    "repo": "davidroyer/gatsby-starter-netlify-cms",
     "branch": "master"
   }
 }
